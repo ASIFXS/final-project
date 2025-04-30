@@ -1,0 +1,13 @@
+#!/usr/bin/env sh
+# generated from catkin/python/catkin/environment_cache.py
+
+# based on a snapshot of the environment before and after calling the setup script
+# it emulates the modifications of the setup script without recurring computations
+
+# new environment variables
+
+# modified environment variables
+export CMAKE_PREFIX_PATH="/home/asifali/turtlebot3_ws/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export PWD='/home/asifali/turtlebot3_ws/build/catkin_tools_prebuild'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/asifali/turtlebot3_ws/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH='/home/asifali/turtlebot3_ws/build/catkin_tools_prebuild:/home/asifali/catkin_ws/src/indoor_mobile_robot/amr_control:/home/asifali/catkin_ws/src/indoor_mobile_robot/apriltag_ros/apriltag_ros:/home/asifali/catkin_ws/src/indoor_mobile_robot/camera_localise:/home/asifali/catkin_ws/src/detection_msgs:/home/asifali/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk:/home/asifali/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples:/home/asifali/catkin_ws/src/indoor_mobile_robot/global_path_planning:/home/asifali/catkin_ws/src/indoor_mobile_robot/hw_interface:/home/asifali/catkin_ws/src/indoor_mobile_robot/image_flip:/home/asifali/catkin_ws/src/indoor_mobile_robot/joy_stick:/home/asifali/catkin_ws/src/indoor_mobile_robot/localisation:/home/asifali/catkin_ws/src/my_robot_controller:/home/asifali/catkin_ws/src/my_rosa_turtle_tourer:/home/asifali/catkin_ws/src/pixel_receiver:/home/asifali/catkin_ws/src/realsense-ros/realsense2_camera:/home/asifali/catkin_ws/src/realsense-ros/realsense2_description:/home/asifali/catkin_ws/src/rplidar_ros:/home/asifali/catkin_ws/src/yolov8_ros/sim_yolo:/home/asifali/catkin_ws/src/rosa/src/turtle_agent:/home/asifali/catkin_ws/src/turtlebot3/turtlebot3:/home/asifali/catkin_ws/src/turtlebot3/turtlebot3_description:/home/asifali/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo:/home/asifali/catkin_ws/src/turtlebot3_msgs:/home/asifali/catkin_ws/src/turtlebot3/turtlebot3_bringup:/home/asifali/catkin_ws/src/turtlebot3/turtlebot3_example:/home/asifali/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake:/home/asifali/catkin_ws/src/turtlebot3/turtlebot3_navigation:/home/asifali/catkin_ws/src/turtlebot3_simulations/turtlebot3_simulations:/home/asifali/catkin_ws/src/turtlebot3/turtlebot3_slam:/home/asifali/catkin_ws/src/turtlebot3/turtlebot3_teleop:/home/asifali/catkin_ws/src/indoor_mobile_robot/visualization:/home/asifali/catkin_ws/src/yolov5_ros:/home/asifali/catkin_ws/src/yolov8_ros/yolov8_ros:/home/asifali/catkin_ws/src/yolov8_ros/yolov8_ros_msgs:/home/asifali/simualtion_ws/src:/opt/ros/noetic/share'

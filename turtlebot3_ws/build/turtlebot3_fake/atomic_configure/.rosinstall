@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/asifali/turtlebot3_ws/devel/.private/turtlebot3_fake/setup.sh
