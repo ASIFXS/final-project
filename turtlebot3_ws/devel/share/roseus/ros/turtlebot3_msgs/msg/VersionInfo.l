@@ -1,1 +1,0 @@
-/home/asifali/turtlebot3_ws/devel/.private/turtlebot3_msgs/share/roseus/ros/turtlebot3_msgs/msg/VersionInfo.l
