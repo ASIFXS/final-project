@@ -1,2 +1,0 @@
-llm-ur-control/ur_agent
--DCATKIN_DEVEL_PREFIX=/home/asifali/zrosa_ws/devel -DCMAKE_INSTALL_PREFIX=/home/asifali/zrosa_ws/install -G Unix Makefiles
